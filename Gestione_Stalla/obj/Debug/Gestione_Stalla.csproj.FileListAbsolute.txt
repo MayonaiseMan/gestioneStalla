@@ -1,0 +1,17 @@
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\bin\Debug\Gestione_Stalla.exe.config
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\bin\Debug\Gestione_Stalla.exe
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\bin\Debug\Gestione_Stalla.pdb
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\Gestione_Stalla.csprojAssemblyReference.cache
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\MainWindow.g.cs
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\NuovoAnimale.g.cs
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\App.g.cs
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\Gestione_Stalla_MarkupCompile.cache
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\Gestione_Stalla_MarkupCompile.lref
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\MainWindow.baml
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\NuovoAnimale.baml
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\Gestione_Stalla.g.resources
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\Gestione_Stalla.Properties.Resources.resources
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\Gestione_Stalla.csproj.GenerateResource.cache
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\Gestione_Stalla.csproj.CoreCompileInputs.cache
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\Gestione_Stalla.exe
+C:\Users\tomma\source\repos\Gestione_Stalla\Gestione_Stalla\obj\Debug\Gestione_Stalla.pdb

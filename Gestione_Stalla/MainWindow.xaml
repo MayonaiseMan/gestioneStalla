@@ -1,0 +1,21 @@
+﻿<Window x:Class="Gestione_Stalla.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gestione_Stalla"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <ListBox x:Name="animali_lst" HorizontalAlignment="Left" Height="370" Margin="10,40,0,0" VerticalAlignment="Top" Width="270"/>
+        
+        <Label Content="Lista Animali" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.655,0.59" Height="30" Width="270" FontSize="16"/>
+        <Button x:Name="compra_btn" Content="Compra Capo Bestiame" HorizontalAlignment="Left" Margin="310,165,0,0" VerticalAlignment="Top" Width="180" RenderTransformOrigin="-0.598,0.056" Height="30" Click="compra_btn_Click"/>
+        <Button x:Name="vendi_btn" Content="Vendi Capi Di Mesi" HorizontalAlignment="Left" Margin="310,205,0,0" VerticalAlignment="Top" Width="180" RenderTransformOrigin="-0.598,0.056" Height="30" Click="vendi_btn_Click"/>
+        <Button x:Name="stampa_btn" Content="Stampa Capi Razza" HorizontalAlignment="Left" Margin="310,245,0,0" VerticalAlignment="Top" Width="180" RenderTransformOrigin="-0.598,0.056" Height="30" Click="stampa_btn_Click"/>
+        <TextBox x:Name="mesi_txt" HorizontalAlignment="Left" Height="30" Margin="495,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50"/>
+        <ComboBox x:Name="razze_cmb" HorizontalAlignment="Left" Margin="495,245,0,0" VerticalAlignment="Top" Width="173" Height="30"/>
+
+    </Grid>
+</Window>

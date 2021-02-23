@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gestione_Stalla.Animale">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Gestione_Stalla.Animale.Razze" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Animale.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAABEBAAEAAAAAAAAAAAAAACAAAAAgAEAAAA=</HashCode>
+      <FileName>Animale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gestione_Stalla.Stalla">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAAAAAAAAAAAAAAABAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stalla.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Animali" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
