@@ -24,6 +24,7 @@ namespace Gestione_Stalla
         {
             InitializeComponent();
             razze_cmb.ItemsSource = Enum.GetValues(typeof(Animale.Razze));
+            razze_cmb.SelectedItem = Animale.Razze.Null;
             main = m;
         }
 
@@ -31,8 +32,7 @@ namespace Gestione_Stalla
         {
             string nome = null;
             DateTime time;
-            Animale.Razze razza;
-
+            Animale.Razze razza = 0;
             try
             {
                 if (!string.IsNullOrEmpty(nome_txt.Text))

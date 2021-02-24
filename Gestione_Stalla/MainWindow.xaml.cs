@@ -26,6 +26,7 @@ namespace Gestione_Stalla
             InitializeComponent();
             stalla = new Stalla();
             razze_cmb.ItemsSource = Enum.GetValues(typeof(Animale.Razze));
+            razze_cmb.SelectedItem = Animale.Razze.Null;
 
         }
 

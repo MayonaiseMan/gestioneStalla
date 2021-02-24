@@ -7,7 +7,7 @@ namespace Gestione_Stalla
 {
     public class Animale
     {
-        public enum Razze { VaccaVecchiaPiemontese, VaccaVecchiaGaliziana, RubiaGaliega }
+        public enum Razze { Null = 0, VaccaVecchiaPiemontese, VaccaVecchiaGaliziana, RubiaGaliega }
         private DateTime _nascita;
         private string _nome;
         private Razze _razza;
@@ -21,7 +21,10 @@ namespace Gestione_Stalla
                 else
                     throw new Exception("nome non valido");
 
-                _razza = razzaCapo;
+                if (razzaCapo != Razze.Null)
+                    _razza = razzaCapo;
+                else
+                    throw new Exception("Razza non valida");
 
                 _nascita = nascitaCapo;
 
